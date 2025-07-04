@@ -4,7 +4,8 @@ A modern chair UI built using HTML & CSS only.
 
 ## Screenshot
 ![Modern Chair Screenshot]
-(Modern chair design.png)
+![Modern chair design](https://github.com/user-attachments/assets/fe22ad9f-57cb-477f-813e-9a6f43183d52)
+
 
 ## Features
 - Pure CSS design

@@ -15,7 +15,9 @@ A modern chair UI built using HTML & CSS only.
 ## How to Run
 1. Clone the repo
 2. Open `index.html` in browser
-3. Or Simply Click the link:
+3. Or Simply Click the link: https://rohit-1166.github.io/MODERN-CHAIR/
+4. Or **[CLICK ON ME]([https://yourlink.com](https://rohit-1166.github.io/MODERN-CHAIR/))**
+
 
 ## Author
 Rohit Kumar
